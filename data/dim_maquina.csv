@@ -1,0 +1,13 @@
+id_maquina,nome_maquina,id_linha
+1,Prensa-01,1
+2,Prensa-02,1
+3,Prensa-03,2
+4,Injetora-01,2
+5,Injetora-02,2
+6,Corte-01,3
+7,Corte-02,3
+8,Montagem-01,4
+9,Montagem-02,4
+10,Teste-01,5
+11,Teste-02,5
+12,Embalagem-01,5

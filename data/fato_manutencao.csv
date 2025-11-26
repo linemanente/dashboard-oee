@@ -1,0 +1,117 @@
+id_ordem,id_data_abertura,id_data_fechamento,id_maquina,tipo_manutencao,causa_raiz,tempo_manutencao_min
+1,84,84,1,Preventiva,Falta de lubrificação,284
+2,141,141,1,Preventiva,Troca de ferramenta,354
+3,154,154,1,Corretiva,Falta de lubrificação,243
+4,85,85,1,Corretiva,Falha elétrica,414
+5,80,80,1,Corretiva,Falha elétrica,394
+6,79,79,1,Preventiva,Falta de lubrificação,34
+7,24,24,1,Preventiva,Falha elétrica,74
+8,139,139,1,Preventiva,Desgaste de componente,214
+9,122,122,1,Preventiva,Troca de ferramenta,462
+10,23,23,1,Preventiva,Ajuste de sensor,226
+11,89,89,2,Preventiva,Ajuste de sensor,407
+12,9,9,2,Preventiva,Ajuste de sensor,144
+13,148,148,2,Preventiva,Ajuste de sensor,198
+14,65,65,2,Corretiva,Falta de lubrificação,266
+15,37,37,3,Corretiva,Falta de lubrificação,138
+16,161,161,3,Corretiva,Troca de ferramenta,472
+17,68,68,3,Corretiva,Ajuste de sensor,108
+18,23,23,3,Preventiva,Desgaste de componente,43
+19,140,140,3,Corretiva,Troca de ferramenta,271
+20,95,95,3,Corretiva,Ajuste de sensor,208
+21,141,141,3,Corretiva,Troca de ferramenta,42
+22,162,162,3,Corretiva,Falta de lubrificação,72
+23,19,19,3,Corretiva,Falta de lubrificação,112
+24,148,148,3,Corretiva,Desgaste de componente,314
+25,65,65,3,Corretiva,Troca de ferramenta,323
+26,94,94,3,Corretiva,Ajuste de sensor,185
+27,101,101,3,Corretiva,Ajuste de sensor,209
+28,169,169,4,Corretiva,Ajuste de sensor,334
+29,93,93,4,Corretiva,Desgaste de componente,250
+30,161,161,4,Corretiva,Desgaste de componente,127
+31,5,5,4,Corretiva,Falha elétrica,158
+32,3,3,4,Corretiva,Desgaste de componente,321
+33,140,140,4,Preventiva,Desgaste de componente,44
+34,16,16,4,Corretiva,Desgaste de componente,250
+35,23,23,4,Corretiva,Desgaste de componente,362
+36,76,76,4,Corretiva,Falha elétrica,56
+37,146,146,4,Corretiva,Ajuste de sensor,262
+38,175,175,4,Corretiva,Falha elétrica,435
+39,4,4,4,Corretiva,Troca de ferramenta,316
+40,69,69,4,Preventiva,Troca de ferramenta,421
+41,167,167,4,Corretiva,Falta de lubrificação,426
+42,127,127,4,Preventiva,Ajuste de sensor,255
+43,115,115,4,Corretiva,Ajuste de sensor,388
+44,96,96,4,Corretiva,Troca de ferramenta,395
+45,95,95,4,Preventiva,Troca de ferramenta,364
+46,181,181,5,Preventiva,Ajuste de sensor,322
+47,177,177,5,Corretiva,Ajuste de sensor,374
+48,128,128,5,Corretiva,Troca de ferramenta,172
+49,148,148,5,Preventiva,Desgaste de componente,72
+50,56,56,6,Corretiva,Ajuste de sensor,249
+51,175,175,6,Preventiva,Falta de lubrificação,463
+52,54,54,6,Corretiva,Ajuste de sensor,452
+53,61,61,6,Preventiva,Ajuste de sensor,260
+54,147,147,6,Preventiva,Falha elétrica,354
+55,143,143,6,Preventiva,Falta de lubrificação,287
+56,103,103,6,Preventiva,Troca de ferramenta,240
+57,45,45,6,Corretiva,Falta de lubrificação,471
+58,70,70,6,Preventiva,Desgaste de componente,382
+59,93,93,6,Preventiva,Troca de ferramenta,180
+60,168,168,6,Preventiva,Falha elétrica,332
+61,55,55,7,Corretiva,Desgaste de componente,392
+62,78,78,7,Corretiva,Desgaste de componente,404
+63,169,169,7,Preventiva,Ajuste de sensor,405
+64,20,20,7,Preventiva,Ajuste de sensor,402
+65,53,53,7,Preventiva,Falta de lubrificação,68
+66,118,118,7,Preventiva,Falha elétrica,275
+67,113,113,7,Preventiva,Troca de ferramenta,112
+68,174,174,7,Corretiva,Falha elétrica,279
+69,28,28,7,Corretiva,Falta de lubrificação,113
+70,124,124,8,Corretiva,Falta de lubrificação,316
+71,48,48,8,Corretiva,Ajuste de sensor,311
+72,105,105,8,Preventiva,Desgaste de componente,86
+73,82,82,8,Preventiva,Falha elétrica,58
+74,163,163,8,Preventiva,Falta de lubrificação,356
+75,98,98,8,Preventiva,Falha elétrica,179
+76,123,123,8,Corretiva,Troca de ferramenta,127
+77,18,18,9,Corretiva,Ajuste de sensor,200
+78,146,146,9,Corretiva,Falha elétrica,172
+79,94,94,9,Preventiva,Falta de lubrificação,129
+80,33,33,9,Preventiva,Desgaste de componente,415
+81,163,163,9,Corretiva,Troca de ferramenta,431
+82,156,156,9,Preventiva,Ajuste de sensor,241
+83,123,123,9,Preventiva,Falha elétrica,161
+84,126,126,10,Corretiva,Falha elétrica,68
+85,140,140,10,Corretiva,Falha elétrica,278
+86,9,9,10,Corretiva,Troca de ferramenta,169
+87,83,83,10,Corretiva,Falta de lubrificação,470
+88,113,113,10,Preventiva,Falha elétrica,216
+89,154,154,10,Corretiva,Falta de lubrificação,137
+90,43,43,10,Corretiva,Falta de lubrificação,180
+91,55,55,10,Corretiva,Ajuste de sensor,183
+92,149,149,10,Corretiva,Desgaste de componente,37
+93,79,79,10,Corretiva,Falha elétrica,350
+94,31,31,10,Preventiva,Desgaste de componente,370
+95,22,22,10,Corretiva,Ajuste de sensor,281
+96,123,123,10,Preventiva,Ajuste de sensor,396
+97,15,15,11,Preventiva,Desgaste de componente,441
+98,87,87,11,Corretiva,Desgaste de componente,354
+99,40,40,11,Corretiva,Ajuste de sensor,98
+100,38,38,11,Corretiva,Troca de ferramenta,402
+101,59,59,11,Preventiva,Falta de lubrificação,123
+102,72,72,11,Preventiva,Falta de lubrificação,412
+103,13,13,11,Corretiva,Falta de lubrificação,419
+104,180,180,11,Preventiva,Troca de ferramenta,326
+105,15,15,11,Corretiva,Ajuste de sensor,30
+106,182,182,12,Preventiva,Falta de lubrificação,212
+107,158,158,12,Preventiva,Falta de lubrificação,89
+108,52,52,12,Preventiva,Ajuste de sensor,272
+109,121,121,12,Preventiva,Ajuste de sensor,71
+110,151,151,12,Corretiva,Falha elétrica,442
+111,19,19,12,Preventiva,Falta de lubrificação,238
+112,66,66,12,Corretiva,Ajuste de sensor,368
+113,89,89,12,Preventiva,Falha elétrica,360
+114,76,76,12,Preventiva,Ajuste de sensor,474
+115,114,114,12,Corretiva,Desgaste de componente,438
+116,176,176,12,Preventiva,Falha elétrica,425
